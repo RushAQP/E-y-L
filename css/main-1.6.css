@@ -6,7 +6,9 @@ h1, h2, h3, h4, h5, h6 { /*reset for mobile browsers */
 /* ==========================================================================
    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
    ========================================================================== */
-
+*{
+    outline: 1px solid rgba(0,255,0,0.3);
+}
 html,
 button,
 input,
